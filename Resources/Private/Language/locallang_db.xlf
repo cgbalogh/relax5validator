@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-05-01T12:12:37Z" product-name="relax5validator">
+		<header/>
+		<body>
+			<trans-unit id="tx_relax5validator_domain_model_validator">
+				<source>Validator</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_validator.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_validator.context">
+				<source>Context</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_validator.domain_model_object">
+				<source>Domain Model Object</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_validator.debug">
+				<source>Debug</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_validator.validationgroups">
+				<source>Validationgroups</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_conditiongroup">
+				<source>Conditiongroup</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_conditiongroup.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_conditiongroup.disjunctive">
+				<source>Disjunctive</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_conditiongroup.conditions">
+				<source>Conditions</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_conditiongroup.error_message">
+				<source>Error Message</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_condition">
+				<source>Condition</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_condition.domain_model_object">
+				<source>Domain Model Object</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_condition.property">
+				<source>Property</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_condition.storage_object_reference">
+				<source>Storage Object Reference</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_condition.negate">
+				<source>Negate</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_condition.operator">
+				<source>Operator</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_condition.value">
+				<source>Value</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_condition.map_error_to_property">
+				<source>Map Error To Property</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_condition.error_message">
+				<source>Error Message</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_errormessage">
+				<source>Error Message</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_errormessage.text">
+				<source>Text</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_errormessage.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_validationgroup">
+				<source>Validationgroup</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_validationgroup.conditiongroup">
+				<source>Conditiongroup</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_validator.conditiongroups">
+				<source>Conditiongroups</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_conditiongroup.domain_model_object">
+				<source>Domain Model Object</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_validator.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_conditiongroup.property">
+				<source>Property</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_validator.properties">
+				<source>Properties</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_property">
+				<source>Property</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_property.property">
+				<source>Property</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_property.error_message">
+				<source>Error Message</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_property.disjunctive">
+				<source>Disjunctive</source>
+			</trans-unit>
+			<trans-unit id="tx_relax5validator_domain_model_property.conditions">
+				<source>Conditions</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

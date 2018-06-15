@@ -1,0 +1,35 @@
+
+# ==============================================
+# Persistence object mapping configuration
+# ==============================================
+config.tx_extbase.persistence.classes {
+	CGB\Relax5validator\Domain\Model\ConditiongroupRelation {
+		mapping {
+			tableName = tx_relax5validator_validator_conditiongroup_mm
+			columns {
+				uid_local.mapOnProperty = validator
+				uid_foreign.mapOnProperty = conditiongroup
+			}
+		}
+	}
+
+	CGB\Relax5validator\Domain\Model\ConditiongroupToErrorMessageRelation {
+		mapping {
+			tableName = tx_relax5validator_conditiongroup_errormessage_mm
+			columns {
+				uid_local.mapOnProperty = conditiongroup
+				uid_foreign.mapOnProperty = errorMessage
+			}
+		}
+	}
+
+	CGB\Relax5validator\Domain\Model\ConditionToErrorMessageRelation {
+		mapping {
+			tableName = tx_relax5validator_condition_errormessage_mm
+			columns {
+				uid_local.mapOnProperty = condition
+				uid_foreign.mapOnProperty = errorMessage
+			}
+		}
+	}
+}

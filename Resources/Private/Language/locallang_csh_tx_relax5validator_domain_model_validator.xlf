@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-05-01T12:12:37Z" product-name="relax5validator">
+		<header/>
+		<body>
+			<trans-unit id="title.description">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="context.description">
+				<source>Context</source>
+			</trans-unit>
+			<trans-unit id="domain_model_object.description">
+				<source>Domain Model Object</source>
+			</trans-unit>
+			<trans-unit id="debug.description">
+				<source>Debug</source>
+			</trans-unit>
+			<trans-unit id="validationgroups.description">
+				<source>Validationgroups</source>
+			</trans-unit>
+			<trans-unit id="conditiongroups.description">
+				<source>Conditiongroups</source>
+			</trans-unit>
+			<trans-unit id="name.description">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="properties.description">
+				<source>properties</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
